@@ -1,8 +1,11 @@
 {
   "item.fadelogicraft.tin_ingot": "Tin Ingot",
-  "item.fadelogicraft.tin_ore": "Tin Ore",
+  "item.fadelogicraft.tin_ore": "Tin Ore Chunk",
   "item.fadelogicraft.aluminum_ingot": "Aluminum Ingot",
   "item.fadelogicraft.bauxite_ore": "Bauxite Ore",
   "item.fadelogicraft.zinc_ingot": "Zinc Ingot",
-  "item.fadelogicraft.sphalerite_ore": "Sphalerite Ore"
+  "item.fadelogicraft.sphalerite_ore": "Sphalerite Ore",
+
+  "block.fadelogicraft.tin_block": "Tin Block",
+  "block.fadelogicraft.tin_ore_block": "Tin Ore"
 }
