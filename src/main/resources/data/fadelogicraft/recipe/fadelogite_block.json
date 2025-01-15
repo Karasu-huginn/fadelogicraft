@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
   "A": {
-    "item": "fadelogicraft:tin_ingot"
+    "item": "fadelogicraft:fadelogite"
   }
 },
 "pattern": [
@@ -13,6 +13,6 @@
 ],
   "result": {
     "count": 1,
-    "id": "fadelogicraft:tin_block"
+    "id": "fadelogicraft:fadelogite_block"
   }
 }

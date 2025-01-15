@@ -1,13 +1,12 @@
 {
-  "item.fadelogicraft.tin_ingot": "Tin Ingot",
-  "item.fadelogicraft.tin_ore": "Tin Ore Chunk",
-  "item.fadelogicraft.aluminum_ingot": "Aluminum Ingot",
-  "item.fadelogicraft.bauxite_ore": "Bauxite Ore",
-  "item.fadelogicraft.zinc_ingot": "Zinc Ingot",
-  "item.fadelogicraft.sphalerite_ore": "Sphalerite Ore",
+  "item.fadelogicraft.fadelogite": "Fadelogite",
+  "item.fadelogicraft.raw_fadelogite": "Raw Fadelogite",
+  "item.fadelogicraft.portable_smelter": "Portable Smelter",
 
-  "block.fadelogicraft.tin_block": "Tin Block",
-  "block.fadelogicraft.tin_ore_block": "Tin Ore",
+  "block.fadelogicraft.fadelogite_block": "Fadelogite Block",
+  "block.fadelogicraft.fadelogite_ore": "Fadelogite Ore",
+  "block.fadelogicraft.raw_fadelogite_block": "Raw Fadelogite Block",
 
   "creativetab.fadelogicraft.fadelogicraft": "Fadelogicraft"
 }
+

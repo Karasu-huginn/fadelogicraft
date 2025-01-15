@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures" : {
-    "layer0": "fadelogicraft:item/aluminum_ingot"
+    "layer0": "fadelogicraft:item/fadelogite"
   }
 }

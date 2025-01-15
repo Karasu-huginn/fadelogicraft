@@ -3,11 +3,11 @@
   "category": "misc",
   "ingredients": [
     {
-      "item":"fadelogicraft:tin_block"
+      "item":"fadelogicraft:fadelogite_block"
     }
   ],
   "result": {
     "count": 9,
-    "id": "fadelogicraft:tin_ingot"
+    "id": "fadelogicraft:fadelogite"
   }
 }

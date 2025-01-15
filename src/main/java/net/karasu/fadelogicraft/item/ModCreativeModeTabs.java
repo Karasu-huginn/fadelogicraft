@@ -16,17 +16,15 @@ public class ModCreativeModeTabs {
     public static final RegistryObject<CreativeModeTab> FADELOGICRAFT_TAB = CREATIVE_MODE_TABS.register(
             "fadelogicraft_tab",
             () -> CreativeModeTab.builder()
-                    .icon(() -> new ItemStack(ModItems.ALUMINUM_INGOT.get()))
+                    .icon(() -> new ItemStack(ModItems.FADELOGITE.get()))
                     .title(Component.translatable("creativetab.fadelogicraft.fadelogicraft"))
                     .displayItems((itemDisplayParameters, output) -> {
-                        output.accept(ModItems.TIN_INGOT.get());
-                        output.accept(ModItems.TIN_ORE.get());
-                        output.accept(ModItems.ALUMINUM_INGOT.get());
-                        output.accept(ModItems.BAUXITE_ORE.get());
-                        output.accept(ModItems.ZINC_INGOT.get());
-                        output.accept(ModItems.SPHALERITE_ORE.get());
-                        output.accept(ModBlocks.TIN_BLOCK.get());
-                        output.accept(ModBlocks.TIN_ORE_BLOCK.get());
+                        output.accept(ModItems.FADELOGITE.get());
+                        output.accept(ModItems.RAW_FADELOGITE.get());
+                        output.accept(ModItems.PORTABLE_SMELTER.get());
+                        output.accept(ModBlocks.FADELOGITE_BLOCK.get());
+                        output.accept(ModBlocks.FADELOGITE_ORE.get());
+                        output.accept(ModBlocks.RAW_FADELOGITE_BLOCK.get());
                     })
             .build());
 

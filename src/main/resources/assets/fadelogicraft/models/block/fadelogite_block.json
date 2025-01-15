@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "fadelogicraft:block/tin_block"
+    "all": "fadelogicraft:block/fadelogite_block"
   }
 }

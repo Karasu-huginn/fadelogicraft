@@ -1,7 +1,7 @@
 {
   "replace": false,
   "values": [
-    "fadelogicraft:tin_block",
-    "fadelogicraft:tin_ore_block"
+    "fadelogicraft:fadelogite_block",
+    "fadelogicraft:fadelogite_ore"
   ]
 }

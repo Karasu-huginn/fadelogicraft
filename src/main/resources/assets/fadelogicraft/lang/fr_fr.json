@@ -1,13 +1,11 @@
 {
-  "item.fadelogicraft.tin_ingot": "Lingot d'étain",
-  "item.fadelogicraft.tin_ore": "Morceau de minerai d'étain",
-  "item.fadelogicraft.aluminum_ingot": "Lingot d'aluminium",
-  "item.fadelogicraft.bauxite_ore": "Minerai de bauxite",
-  "item.fadelogicraft.zinc_ingot": "Lingot de zinc",
-  "item.fadelogicraft.sphalerite_ore": "Minerai de sphalérite",
+  "item.fadelogicraft.fadelogite": "Fadelogite",
+  "item.fadelogicraft.raw_fadelogite": "Fadelogite brute",
+  "item.fadelogicraft.portable_smelter": "Chalumeau",
 
-  "block.fadelogicraft.tin_block": "Bloc d'étain",
-  "block.fadelogicraft.tin_ore_block": "Minerai d'étain",
+  "block.fadelogicraft.fadelogite_block": "Bloc de fadelogite",
+  "block.fadelogicraft.fadelogite_ore": "Minerai de fadelogite",
+  "block.fadelogicraft.raw_fadelogite_block": "Bloc de fadelogite brute",
 
   "creativetab.fadelogicraft.fadelogicraft": "Fadelogicraft"
 }

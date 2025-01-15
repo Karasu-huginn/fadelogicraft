@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures" : {
-    "layer0": "fadelogicraft:item/tin_ore"
+    "layer0": "fadelogicraft:item/portable_smelter"
   }
 }

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 1800,
+  "experience": 6.3,
+  "group": "iron_ingot",
+  "ingredient": {
+    "item": "fadelogicraft:raw_fadelogite_block"
+  },
+  "result": {
+    "id": "fadelogicraft:fadelogite_block"
+  }
+}

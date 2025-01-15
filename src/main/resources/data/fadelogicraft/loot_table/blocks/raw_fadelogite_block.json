@@ -11,11 +11,11 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "fadelogicraft:tin_ore_block"
+          "name": "fadelogicraft:raw_fadelogite_block"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "fadelogicraft:blocks/tin_ore_block"
+  "random_sequence": "fadelogicraft:blocks/raw_fadelogite_block"
 }

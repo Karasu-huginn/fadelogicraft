@@ -3,11 +3,11 @@
   "category": "misc",
   "cookingtime": 200,
   "experience": 0.7,
-  "group": "tin_ingot",
+  "group": "iron_ingot",
   "ingredient": {
-    "item": "fadelogicraft:tin_ore"
+    "item": "fadelogicraft:raw_fadelogite"
   },
   "result": {
-    "id": "fadelogicraft:tin_ingot"
+    "id": "fadelogicraft:fadelogite"
   }
 }
