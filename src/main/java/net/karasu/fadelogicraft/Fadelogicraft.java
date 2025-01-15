@@ -2,6 +2,7 @@ package net.karasu.fadelogicraft;
 
 import com.mojang.logging.LogUtils;
 import net.karasu.fadelogicraft.block.ModBlocks;
+import net.karasu.fadelogicraft.item.ModCreativeModeTabs;
 import net.karasu.fadelogicraft.item.ModItems;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.api.distmarker.Dist;
@@ -29,6 +30,8 @@ public class Fadelogicraft {
         modEventBus.addListener(this::commonSetup);
         MinecraftForge.EVENT_BUS.register(this);
 
+        ModCreativeModeTabs.register(modEventBus);
+
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
 
@@ -41,22 +44,7 @@ public class Fadelogicraft {
     }
 
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
-        if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
-            event.accept(ModItems.TIN_INGOT);
-            event.accept(ModItems.TIN_ORE);
-            event.accept(ModItems.ALUMINUM_INGOT);
-            event.accept(ModItems.BAUXITE_ORE);
-            event.accept(ModItems.ZINC_INGOT);
-            event.accept(ModItems.SPHALERITE_ORE);
-        }
 
-        if(event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
-            event.accept(ModBlocks.TIN_BLOCK);
-        }
-
-        if(event.getTabKey() == CreativeModeTabs.NATURAL_BLOCKS) {
-            event.accept(ModBlocks.TIN_ORE_BLOCK);
-        }
     }
 
     @SubscribeEvent

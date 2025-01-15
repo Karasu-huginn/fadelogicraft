@@ -7,5 +7,7 @@
   "item.fadelogicraft.sphalerite_ore": "Sphalerite Ore",
 
   "block.fadelogicraft.tin_block": "Tin Block",
-  "block.fadelogicraft.tin_ore_block": "Tin Ore"
+  "block.fadelogicraft.tin_ore_block": "Tin Ore",
+
+  "creativetab.fadelogicraft.fadelogicraft": "Fadelogicraft"
 }

@@ -7,5 +7,7 @@
   "item.fadelogicraft.sphalerite_ore": "Minerai de sphalérite",
 
   "block.fadelogicraft.tin_block": "Bloc d'étain",
-  "block.fadelogicraft.tin_ore_block": "Minerai d'étain"
+  "block.fadelogicraft.tin_ore_block": "Minerai d'étain",
+
+  "creativetab.fadelogicraft.fadelogicraft": "Fadelogicraft"
 }
